@@ -1,0 +1,224 @@
+{
+    "articles": [
+        {
+            "id": 1,
+            "name": "Elden Ring",
+            "title": "Lancio di Elden Ring: il gioco che ha cambiato la storia dei Soulslike",
+            "author": ["Giovanni Rossi", " "],
+            "date": "2025-03-22",
+            "content": "Elden Ring ha catturato l'immaginazione di milioni di giocatori con la sua combinazione di esplorazione open-world e combattimenti impegnativi. Il gioco è stato sviluppato da FromSoftware in collaborazione con George R. R. Martin e ha ricevuto recensioni entusiastiche da parte di critica e pubblico.",
+            "image": "data:image/jpeg;base64,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",
+            "category": ["RPG", " ", "Action"],
+            "platform": "PlayStation"
+          },
+          {
+            "id": 2,
+            "name": "Super Mario Bros",
+            "title": "Super Mario Bros. 35th Anniversary: La magia che non finisce mai",
+            "author": ["Lucia Bianchi", " "],
+            "date": "2025-03-22",
+            "content": "Il 35° anniversario di Super Mario Bros. ci ricorda perché il personaggio di Mario è uno dei più iconici nella storia dei videogiochi. Con nuove edizioni e eventi speciali, la serie continua a conquistare nuove generazioni di giocatori.",
+            "image": "data:image/jpeg;base64,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",
+            "category": "Platform",
+            "platform": "Nintendo"
+          },
+          {
+            "id": 3,
+            "name": "Eternal Quest",
+            "title": "Eternal Quest: Nuove Avventure in Arrivo",
+            "author": ["Luca Verdi", " "],
+            "date": "2025-03-24",
+            "content": "Eternal Quest sta per introdurre nuove missioni che promettono di arricchire l'esperienza di gioco. I fan possono aspettarsi ambientazioni inedite e sfide avvincenti.",
+            "image": "https://example.com/images/eternal_quest_update.jpg",
+            "category": ["RPG", " ", "Adventure"],
+            "platform": "PlayStation"
+          },
+          {
+            "id": 4,
+            "name": "Shadow Wars",
+            "title": "Shadow Wars: Battaglie Epiche nel Mondo Oscuro",
+            "author": ["Marco Rossi", " "],
+            "date": "2025-03-22",
+            "content": "Shadow Wars offre combattimenti intensi e una trama avvincente. I giocatori potranno scegliere tra diverse fazioni in conflitto.",
+            "image": "https://example.com/images/shadow_wars_battle.jpg",
+            "category": ["FPS", " ", "Action"],
+            "platform": "Xbox"
+          },
+          {
+            "id": 5,
+            "name": "Mythic Legends",
+            "title": "Mythic Legends: Alla Scoperta di Nuove Terre",
+            "author": ["Elisa Neri", " "],
+            "date": "2025-03-21",
+            "content": "In Mythic Legends, i giocatori esploreranno terre sconosciute, affrontando creature mitologiche e scoprendo antichi segreti.",
+            "image": "https://example.com/images/mythic_legends_explore.jpg",
+            "category": ["Adventure", " ", "Fantasy"],
+            "platform": "Nintendo"
+          },
+        {
+            "id": 6,
+            "name": "Final Battle X",
+            "title": "Final Battle X: La Conclusione di una Saga",
+            "author": ["Giovanni Conti", " "],
+            "date": "2025-03-20",
+            "content": "Final Battle X segna la fine di una saga epica. I giocatori dovranno affrontare il nemico finale in battaglie mozzafiato.",
+            "image": "https://example.com/images/final_battle_x_conclusion.jpg",
+            "category": ["Fighting", " ", "Action"],
+            "platform": "PlayStation"
+        },
+        {
+            "id": 7,
+            "name": "Xbox",
+            "title": "Nuovo aggiornamento per il gioco Xbox in arrivo!",
+            "author": ["Luca Verdi", " "],
+            "date": "2025-03-28",
+            "content": "Il nuovo aggiornamento per Xbox introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_7.jpg",
+            "category": ["Strategy", " ", "Simulation"],
+            "platform": "Xbox"
+        },
+        {
+            "id": 8,
+            "name": "Playstation",
+            "title": "Nuovo aggiornamento per il gioco PlayStation in arrivo!",
+            "author": ["Anna Bianchi", " "],
+            "date": "2025-03-19",
+            "content": "Il nuovo aggiornamento per PlayStation introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_8.jpg",
+            "category": ["Strategy", " ","FPS"],
+            "platform": "PlayStation"
+        },
+        {
+            "id": 9,
+            "name": "Playstation",
+            "title": "Nuovo aggiornamento per il gioco PlayStation in arrivo!",
+            "author": ["Elisa Neri", " "],
+            "date": "2025-03-28",
+            "content": "Il nuovo aggiornamento per PlayStation introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_9.jpg",
+            "category": ["Action", " ","Racing"],
+            "platform": "PlayStation"
+        },
+        {
+            "id": 10,
+            "name": "Xbox",
+            "title": "Nuovo aggiornamento per il gioco Xbox in arrivo!",
+            "author": ["Giovanni Conti", " "],
+            "date": "2025-03-15",
+            "content": "Il nuovo aggiornamento per Xbox introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_10.jpg",
+            "category": ["Simulation", " ","Horror"],
+            "platform": "Xbox"
+        },
+        {
+            "id": 11,
+            "name": "PC",
+            "title": "Nuovo aggiornamento per il gioco PC in arrivo!",
+            "author": ["Luca Verdi", " "],
+            "date": "2025-03-26",
+            "content": "Il nuovo aggiornamento per PC introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_11.jpg",
+            "category": ["Fighting", " ","Horror"],
+            "platform": "PC"
+        },
+        {
+            "id": 12,
+            "name": "PC",
+            "title": "Nuovo aggiornamento per il gioco PC in arrivo!",
+            "author": ["Marco Rossi", " "],
+            "date": "2025-03-11",
+            "content": "Il nuovo aggiornamento per PC introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_12.jpg",
+            "category": ["Racing", " ","Racing"],
+            "platform": "PC"
+        },
+        {
+            "id": 13,
+            "name": "Xbox",
+            "title": "Nuovo aggiornamento per il gioco Xbox in arrivo!",
+            "author": ["Luca Verdi", " "],
+            "date": "2025-03-13",
+            "content": "Il nuovo aggiornamento per Xbox introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_13.jpg",
+            "category": ["Action", " ","FPS"],
+            "platform": "Xbox"
+        },
+        {
+            "id": 14,
+            "name": "Xbox",
+            "title": "Nuovo aggiornamento per il gioco Xbox in arrivo!",
+            "author": ["Elisa Neri", " "],
+            "date": "2025-03-23",
+            "content": "Il nuovo aggiornamento per Xbox introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_14.jpg",
+            "category": ["Simulation", " ","Racing"],
+            "platform": "Xbox"
+        },
+        {
+            "id": 15,
+            "name": "PC",
+            "title": "Nuovo aggiornamento per il gioco PC in arrivo!",
+            "author": ["Marco Rossi", " "],
+            "date": "2025-03-21",
+            "content": "Il nuovo aggiornamento per PC introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_15.jpg",
+            "category": ["Sports", " ","Sports"],
+            "platform": "PC"
+        },
+        {
+            "id": 16,
+            "name": "Nintendo",
+            "title": "Nuovo aggiornamento per il gioco Nintendo in arrivo!",
+            "author": ["Anna Bianchi", " "],
+            "date": "2025-03-13",
+            "content": "Il nuovo aggiornamento per Nintendo introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_16.jpg",
+            "category": ["Simulation", " ","Simulation"],
+            "platform": "Nintendo"
+        },
+        {
+            "id": 17,
+            "name": "Playstation",
+            "title": "Nuovo aggiornamento per il gioco PlayStation in arrivo!",
+            "author": ["Giovanni Conti", " "],
+            "date": "2025-03-27",
+            "content": "Il nuovo aggiornamento per PlayStation introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_17.jpg",
+            "category": ["Racing", " ","RPG"],
+            "platform": "PlayStation"
+        },
+        {
+            "id": 18,
+            "name": "Nintendo",
+            "title": "Nuovo aggiornamento per il gioco Nintendo in arrivo!",
+            "author": ["Marco Rossi", " "],
+            "date": "2025-03-14",
+            "content": "Il nuovo aggiornamento per Nintendo introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_18.jpg",
+            "category": ["RPG", " ","Sports"],
+            "platform": "Nintendo"
+        },
+        {
+            "id": 19,
+            "name": "PC",
+            "title": "Nuovo aggiornamento per il gioco PC in arrivo!",
+            "author": ["Elisa Neri", " "],
+            "date": "2025-03-11",
+            "content": "Il nuovo aggiornamento per PC introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_19.jpg",
+            "category": ["Fighting", " ","Fighting"],
+            "platform": "PC"
+        },
+        {
+            "id": 20,
+            "name": "PC",
+            "title": "Nuovo aggiornamento per il gioco PC in arrivo!",
+            "author": ["Luca Verdi", " "],
+            "date": "2025-03-16",
+            "content": "Il nuovo aggiornamento per PC introduce una serie di miglioramenti significativi. Oltre a una revisione grafica che rende i dettagli pi\u00f9 nitidi e realistici, i giocatori potranno godere di nuove missioni e sfide. Gli sviluppatori hanno anche lavorato duramente per ottimizzare le prestazioni del gioco, riducendo i tempi di caricamento e migliorando la fluidit\u00e0 del gameplay. Alcune nuove funzionalit\u00e0 sono state aggiunte per rendere l'esperienza ancora pi\u00f9 immersiva, tra cui nuove modalit\u00e0 di gioco e opzioni di personalizzazione avanzate. Restate sintonizzati per ulteriori dettagli!",
+            "image": "https://example.com/images/game_update_20.jpg",
+            "category": ["Horror", " ","Simulation"],
+            "platform": "PC"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "reviews": [
+        {
+            "id": 1,
+            "title": "Recensione del gioco Xbox: ne vale la pena?",
+            "author": "Elisa Neri", 
+            "date": ["2025-03-25", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per Xbox, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_1.jpg",
+            "platform": "Xbox",
+            "score": 9.8
+        },
+        {
+            "id": 2,
+            "title": "Recensione del gioco PlayStation: ne vale la pena?",
+            "author": "Sara Galli", 
+            "date": ["2025-03-26", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per PlayStation, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_2.jpg",
+            "platform": "PlayStation",
+            "score": 9.2
+        },
+        {
+            "id": 3,
+            "title": "Recensione del gioco PlayStation: ne vale la pena?",
+            "author": "Elisa Neri", 
+            "date": ["2025-03-19", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per PlayStation, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_3.jpg",
+            "platform": "PlayStation",
+            "score": 6.2
+        },
+        {
+            "id": 4,
+            "title": "Recensione del gioco PC: ne vale la pena?",
+            "author": "Marco Rossi", 
+            "date": ["2025-03-23", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per PC, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_4.jpg",
+            "platform": "PC",
+            "score": 8.1
+        },
+        {
+            "id": 5,
+            "title": "Recensione del gioco Nintendo: ne vale la pena?",
+            "author": "Luca Verdi", 
+            "date": ["2025-03-21", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per Nintendo, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_5.jpg",
+            "platform": "Nintendo",
+            "score": 8.8
+        },
+        {
+            "id": 6,
+            "title": "Recensione del gioco PlayStation: ne vale la pena?",
+            "author": "Anna Bianchi", 
+            "date": ["2025-03-12", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per PlayStation, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_6.jpg",
+            "platform": "PlayStation",
+            "score": 6.4
+        },
+        {
+            "id": 7,
+            "title": "Recensione del gioco PC: ne vale la pena?",
+            "author": "Luca Verdi", 
+            "date": ["2025-03-22", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per PC, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_7.jpg",
+            "platform": "PC",
+            "score": 8.5
+        },
+        {
+            "id": 8,
+            "title": "Recensione del gioco PC: ne vale la pena?",
+            "author": "Giovanni Conti", 
+            "date": ["2025-03-19", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per PC, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_8.jpg",
+            "platform": "PC",
+            "score": 9.2
+        },
+        {
+            "id": 9,
+            "title": "Recensione del gioco PC: ne vale la pena?",
+            "author": "Luca Verdi", 
+            "date": ["2025-03-19", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per PC, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_9.jpg",
+            "platform": "PC",
+            "score": 8.4
+        },
+        {
+            "id": 10,
+            "title": "Recensione del gioco Xbox: ne vale la pena?",
+            "author": "Giovanni Conti", 
+            "date": ["2025-03-27", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per Xbox, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_10.jpg",
+            "platform": "Xbox",
+            "score": 9.2
+        },
+        {
+            "id": 11,
+            "title": "Recensione del gioco Xbox: ne vale la pena?",
+            "author": "Luca Verdi", 
+            "date": ["2025-03-10", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per Xbox, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_11.jpg",
+            "platform": "Xbox",
+            "score": 9.6
+        },
+        {
+            "id": 12,
+            "title": "Recensione del gioco Nintendo: ne vale la pena?",
+            "author": "Anna Bianchi", 
+            "date": ["2025-03-25", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per Nintendo, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_12.jpg",
+            "platform": "Nintendo",
+            "score": 8.5
+        },
+        {
+            "id": 13,
+            "title": "Recensione del gioco PC: ne vale la pena?",
+            "author": "Sara Galli", 
+            "date": ["2025-03-21", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per PC, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_13.jpg",
+            "platform": "PC",
+            "score": 8.6
+        },
+        {
+            "id": 14,
+            "title": "Recensione del gioco Xbox: ne vale la pena?",
+            "author": "Giovanni Conti", 
+            "date": ["2025-03-28", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per Xbox, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_14.jpg",
+            "platform": "Xbox",
+            "score": 6.2
+        },
+        {
+            "id": 15,
+            "title": "Recensione del gioco PlayStation: ne vale la pena?",
+            "author": "Elisa Neri", 
+            "date": ["2025-03-23", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per PlayStation, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_15.jpg",
+            "platform": "PlayStation",
+            "score": 6.9
+        },
+        {
+            "id": 16,
+            "title": "Recensione del gioco Nintendo: ne vale la pena?",
+            "author": "Elisa Neri", 
+            "date": ["2025-03-11", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per Nintendo, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_16.jpg",
+            "platform": "Nintendo",
+            "score": 8.2
+        },
+        {
+            "id": 17,
+            "title": "Recensione del gioco Xbox: ne vale la pena?",
+            "author": "Sara Galli", 
+            "date": ["2025-03-20", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per Xbox, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_17.jpg",
+            "platform": "Xbox",
+            "score": 7.2
+        },
+        {
+            "id": 18,
+            "title": "Recensione del gioco PlayStation: ne vale la pena?",
+            "author": "Sara Galli", 
+            "date": ["2025-03-22", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per PlayStation, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_18.jpg",
+            "platform": "PlayStation",
+            "score": 9.7
+        },
+        {
+            "id": 19,
+            "title": "Recensione del gioco Xbox: ne vale la pena?",
+            "author": "Giovanni Conti", 
+            "date": ["2025-03-23", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per Xbox, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_19.jpg",
+            "platform": "Xbox",
+            "score": 9.2
+        },
+        {
+            "id": 20,
+            "title": "Recensione del gioco PlayStation: ne vale la pena?",
+            "author": "Giovanni Conti", 
+            "date": ["2025-03-17", " "],
+            "content": "Abbiamo trascorso diverse ore con il nuovo titolo per PlayStation, e possiamo dire con certezza che offre un'esperienza di gioco avvincente. Dal punto di vista grafico, il gioco \u00e8 impressionante, con ambientazioni dettagliate e un'illuminazione dinamica che rende ogni scena spettacolare. Il gameplay \u00e8 ben bilanciato, con una curva di apprendimento accessibile ai principianti ma abbastanza profonda per i veterani. La colonna sonora \u00e8 un altro punto di forza, con brani orchestrali che accompagnano perfettamente ogni momento di azione. Tuttavia, il gioco non \u00e8 esente da difetti: alcuni bug e problemi di ottimizzazione potrebbero essere risolti con futuri aggiornamenti. In generale, un'ottima esperienza!",
+            "image": "https://example.com/images/review_20.jpg",
+            "platform": "PlayStation",
+            "score": 7.7
+        }
+    ]
+}
